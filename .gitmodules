@@ -41,8 +41,8 @@
 	path = plugins/ChatTawkto
 	url = https://github.com/govce/plugin-ChatTawkto.git
 [submodule "EvaluationMethodSeplag"]
-	path = EvaluationMethodSeplag
+	path = plugins/EvaluationMethodSeplag
 	url = https://github.com/secultce/plugin-EvaluationMethodSeplag.git
 [submodule "EvaluationMethodTechnical"]
-	path = EvaluationMethodTechnical
+	path = plugins/EvaluationMethodTechnical
 	url = https://github.com/secultce/plugin-EvaluationMethodTechnical.git
