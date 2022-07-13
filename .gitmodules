@@ -4,3 +4,21 @@
 [submodule "core"]
 	path = core
 	url = https://github.com/secultce/mapasculturais.git
+[submodule "plugins/Accessibility"]
+	path = plugins/Accessibility
+	url = https://github.com/govce/plugin-Accessibility.git
+[submodule "plugins/AldirBlanc"]
+	path = plugins/AldirBlanc
+	url = https://github.com/govce/plugin-AldirBlanc.git
+[submodule "plugins/AldirBlancDataprev"]
+	path = plugins/AldirBlancDataprev
+	url = https://github.com/govce/plugin-AldirBlancDataprev.git
+[submodule "plugins/AldirBlancValidador"]
+	path = plugins/AldirBlancValidador
+	url = https://github.com/govce/plugin-AldirBlancValidador.git
+[submodule "plugins/AldirBlancValidadorFinanceiro"]
+	path = plugins/AldirBlancValidadorFinanceiro
+	url = https://github.com/govce/plugin-AldirBlancValidadorFinanceiro.git
+[submodule "plugins/RegistrationPayments"]
+	path = plugins/RegistrationPayments
+	url = https://github.com/govce/plugin-RegistrationPayments.git
