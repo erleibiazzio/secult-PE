@@ -25,3 +25,24 @@
 [submodule "themes/Ceara"]
 	path = themes/Ceara
 	url = https://github.com/secultce/theme-Ceara.git
+[submodule "plugins/RegistrationPaymentsAuxilio"]
+	path = plugins/RegistrationPaymentsAuxilio
+	url = https://github.com/secultce/plugin-FinancialAssistance2021.git
+[submodule "plugins/SendEmailUser"]
+	path = plugins/SendEmailUser
+	url = https://github.com/secultce/Plugin-Alerta-Inscricoes-em-Rascunho.git
+[submodule "plugins/Report"]
+	path = plugins/Report
+	url = https://github.com/secultce/plugin-reports-documentary-technical.git
+[submodule "plugins/pwa"]
+	path = plugins/pwa
+	url = https://github.com/govce/plugin-PWA.git
+[submodule "plugins/ChatTawkto"]
+	path = plugins/ChatTawkto
+	url = https://github.com/govce/plugin-ChatTawkto.git
+[submodule "EvaluationMethodSeplag"]
+	path = EvaluationMethodSeplag
+	url = https://github.com/secultce/plugin-EvaluationMethodSeplag.git
+[submodule "EvaluationMethodTechnical"]
+	path = EvaluationMethodTechnical
+	url = https://github.com/secultce/plugin-EvaluationMethodTechnical.git
