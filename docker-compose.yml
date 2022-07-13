@@ -59,7 +59,7 @@ services:
       - db
       - redis
     environment:
-      - ACTIVE_THEME=SampleTheme
+      - ACTIVE_THEME=Ceara
 
       - LOG_LEVEL=DEBUG
       - LOG_ENABLED=true
